@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Practica_3_PAD/static/css/main.e6c13ad2.css",
-    "main.js": "/Practica_3_PAD/static/js/main.08004020.js",
-    "static/js/453.dfdfcbaa.chunk.js": "/Practica_3_PAD/static/js/453.dfdfcbaa.chunk.js",
-    "index.html": "/Practica_3_PAD/index.html",
-    "main.e6c13ad2.css.map": "/Practica_3_PAD/static/css/main.e6c13ad2.css.map",
-    "main.08004020.js.map": "/Practica_3_PAD/static/js/main.08004020.js.map",
-    "453.dfdfcbaa.chunk.js.map": "/Practica_3_PAD/static/js/453.dfdfcbaa.chunk.js.map"
+    "main.css": "/buscador-libros/static/css/main.e6c13ad2.css",
+    "main.js": "/buscador-libros/static/js/main.84731686.js",
+    "static/js/453.dfdfcbaa.chunk.js": "/buscador-libros/static/js/453.dfdfcbaa.chunk.js",
+    "index.html": "/buscador-libros/index.html",
+    "main.e6c13ad2.css.map": "/buscador-libros/static/css/main.e6c13ad2.css.map",
+    "main.84731686.js.map": "/buscador-libros/static/js/main.84731686.js.map",
+    "453.dfdfcbaa.chunk.js.map": "/buscador-libros/static/js/453.dfdfcbaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08004020.js"
+    "static/js/main.84731686.js"
   ]
 }
