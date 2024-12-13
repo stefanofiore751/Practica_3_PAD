@@ -2,7 +2,7 @@
   "name": "buscador-libros",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arriazatomas.github.io/PAD_Practica_3",
+  "homepage": "https://stefanofiore751.github.io/buscador-libros",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
