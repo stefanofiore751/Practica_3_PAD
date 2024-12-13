@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PAD_Practica_3/static/css/main.e6c13ad2.css",
+    "main.js": "/PAD_Practica_3/static/js/main.2a50aef1.js",
+    "static/js/453.dfdfcbaa.chunk.js": "/PAD_Practica_3/static/js/453.dfdfcbaa.chunk.js",
+    "index.html": "/PAD_Practica_3/index.html",
+    "main.e6c13ad2.css.map": "/PAD_Practica_3/static/css/main.e6c13ad2.css.map",
+    "main.2a50aef1.js.map": "/PAD_Practica_3/static/js/main.2a50aef1.js.map",
+    "453.dfdfcbaa.chunk.js.map": "/PAD_Practica_3/static/js/453.dfdfcbaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2a50aef1.js"
+  ]
+}
